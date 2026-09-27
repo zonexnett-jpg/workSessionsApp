@@ -1,0 +1,6 @@
+<resources>
+    <style name="Theme.WorkSessions" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:statusBarColor">#1b1a29</item>
+        <item name="android:windowBackground">#1b1a29</item>
+    </style>
+</resources>
